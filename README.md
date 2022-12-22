@@ -1,12 +1,34 @@
 ### About Me
 
-I am a Senior undergraduate at Utah State University with a major in Computer Science. I love learning about programming and all aspects of computer science. Some of the areas I enjoy are:
+I am a Senior undergraduate at Utah State University with a major in Computer Science. I love learning everything about computer science. The areas I have been most interested in are web development, database systems, machine learning, and computer vision. The ethics around these different topics and how they effect people are also very interesting to learn about. Outside of programming, I like to read and play video games.
 
-- Web Development
-- Machine Learning
-- Computer Vision
-- Robotics
+---
 
+### Languages I've used the most:
+- Python
+- MATLAB
+- TypeScript
+- JavaScript
+- SQL
+- HTML
+- CSS
+- LaTex
+- Markdown
+
+### Tools I've worked with:
+- React
+- NestJS
+- DJango
+- ROS
+- MySQL
+- Jupyter Notebooks
+- SciKit-Learn and Pandas
+
+<details>
+	<summary>
+		<h3>Projects</h3>
+	</summary>
+</details>
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skal-chin&layout=compact&theme=vision-friendly-dark)](https://github.com/skal-chin/github-readme-stats)
