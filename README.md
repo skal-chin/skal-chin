@@ -157,13 +157,7 @@ I am a Senior undergraduate at Utah State University with a major in Computer Sc
 	/> Jupyter Notebooks
 </div>
 
-<!-- - React
-- NestJS
-- DJango
-- ROS
-- MySQL
-- Jupyter Notebooks
-- SciKit-Learn and Pandas -->
+---
 
 <details>
 	<summary>
@@ -171,6 +165,7 @@ I am a Senior undergraduate at Utah State University with a major in Computer Sc
 	</summary>
 </details>
 
+---
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skal-chin&layout=compact&theme=vision-friendly-dark)](https://github.com/skal-chin/github-readme-stats)
 
