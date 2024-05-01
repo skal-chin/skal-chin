@@ -1,6 +1,6 @@
 ### About Me
 
-I am a Senior undergraduate at Utah State University with a major in Computer Science. I love learning everything about computer science. The areas I have been most interested in are web development, database systems, machine learning, and computer vision. The ethics around these different topics and how they effect people are also very interesting to learn about. Outside of programming, I like to read and play video games.
+I am a graduate student from Utah State University with a major in Computer Science. I love learning everything about computer science. The areas I have been most interested in are web development, database systems, machine learning, and computer vision. The ethics around these different topics and how they effect people are also very interesting to learn about. Outside of programming, I like to read and play video games.
 
 ---
 
