@@ -15,6 +15,14 @@
 			as well as ethics around these different topics and how they effect people. Outside of programming, I like to read and play video games.
 		</p>
 	</div>
+	<div align="center">
+		<img
+			src="https://github-readme-stats.vercel.app/api/top-langs/?username=skal-chin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"
+		>
+		<img
+			src="https://github-readme-streak-stats.herokuapp.com/?user=skal-chin&theme=vue-dark&hide_border=true"
+		>
+	</div>
 </div>
 
 ---
@@ -155,10 +163,6 @@
 		<h3>Projects</h3>
 	</summary>
 </details>
-
----
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skal-chin&layout=compact&theme=vision-friendly-dark)](https://github.com/skal-chin/github-readme-stats)
 
 <!--
 **skal-chin/skal-chin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
