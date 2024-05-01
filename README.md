@@ -55,19 +55,26 @@ I am a graduate student from Utah State University with a major in Computer Scie
 		heigth="30"
 	/> 
 	<img
-		src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"
+		src="https://github.com/skal-chin/icons/blob/main/latex/latex-original.png"
 		title="LaTex"
 		alt="LaTex"
 		width="30"
 		heigth="30"
 	/> 
 	<img
-		src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"
+		src="https://github.com/skal-chin/icons/blob/main/markdown/markdown-original.png"
 		title="Markdown"
 		alt="Markdown"
 		width="30"
 		heigth="30"
-	/> 
+	/>
+	<img
+		src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg"
+		title="Markdown"
+		alt="Markdown"
+		width="30"
+		heigth="30"
+	/>
 	<img
 		src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
 		title="Java"
@@ -82,7 +89,7 @@ I am a graduate student from Utah State University with a major in Computer Scie
 <div>
 	<img
 		class="background"
-		src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
+		src="https://github.com/skal-chin/icons/blob/main/github/github-white.png"
 		title="GitHub"
 		alt="GitHub"
 		width="30"
@@ -122,7 +129,14 @@ I am a graduate student from Utah State University with a major in Computer Scie
 		alt="Jupyter Notebooks"
 		width="30"
 		heigth="30"
-	/> 
+	/>
+	<img
+		src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg"
+		title="Jupyter Notebooks"
+		alt="Jupyter Notebooks"
+		width="30"
+		heigth="30"
+	/>
 </div>
 
 ---
