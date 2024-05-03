@@ -187,12 +187,30 @@
 				<li>NestJS</li>
 			</ul>
 		</details>
-<!-- 		<details>
-			<h4>histogram_based_segmentation</h4>
-		</details>
+		<h4>histogram_based_segmentation</h4>
+		<p>A histogram-based segmentation algorithm to automate the optimal number of <i>k</i> for the k-means algorithm. Based on the paper 'Histogram-based Automatic segmentation of images' by K&#252;&#231;&#252;kk&#252;lahh, Pakize Erdo&#287;mu&#351;</p>
 		<details>
-			<h4>WorldHappinessReport</h4>
-		</details> -->
+  			<summary>
+				<h5><b>Tech stack used:</b></h5>
+			</summary>
+   			<ul>
+				<li>MATLAB</li>
+			</ul>
+		</details>
+		<h4>WorldHappinessReport</h4>
+		<p>An analysis on data from the World Happiness Report for years of 2015 to 2022.</p>
+		<details>
+			<summary>
+				<h5><b>Tech stack used:</b></h5>
+			</summary>
+			<ul>
+				<li>Python</li>
+				<li>Jupyter Notebooks</li>
+				<li>Pandas</li>
+				<li>NumPy</li>
+				<li>MatPlotLib</li>
+			</ul>
+		</details>
 </details>
 
 <!--
