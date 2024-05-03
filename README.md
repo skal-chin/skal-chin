@@ -2,7 +2,7 @@
 
 <div>
 	<div>
-		<p>I am a graduate student from Utah State University with a major in Computer Science. I love learning everything about computer science. The areas I have been most interested in are:
+		<p>I am a graduate from Utah State University with a major in Computer Science. I love learning everything about computer science. The areas I have been most interested in are:
 		</p>
 	 	<ul>
 			<li>Web Development</li>
@@ -161,6 +161,38 @@
 	<summary>
 		<h3>Projects</h3>
 	</summary>
+		<h4><i>django_react_starter</i></h4>
+		<p>A starter web application with custom login authentication</p>
+		<details>
+			<summary>
+				<h5><b>Tech stack used:</b></h5>
+			</summary>
+			<ul>
+				<li>Python</li>
+				<li>JavaScript</li>
+				<li>Django</li>
+				<li>React</li>
+			</ul>
+		</details>
+		<h4><i>omnilegent</i></h4>
+		<p>A web application for finding books, tracking a to-be-read list, and communicating through chat rooms.</p>
+		<details>
+			<summary>
+				<h5><b>Tech stack used:</b></h5>
+			</summary>
+			<ul>
+				<li>JavaScript</li>
+				<li>TypeScripy</li>
+				<li>React</li>
+				<li>NestJS</li>
+			</ul>
+		</details>
+<!-- 		<details>
+			<h4>histogram_based_segmentation</h4>
+		</details>
+		<details>
+			<h4>WorldHappinessReport</h4>
+		</details> -->
 </details>
 
 <!--
