@@ -182,7 +182,7 @@
 			</summary>
 			<ul>
 				<li>JavaScript</li>
-				<li>TypeScripy</li>
+				<li>TypeScript</li>
 				<li>React</li>
 				<li>NestJS</li>
 			</ul>
